@@ -4,4 +4,4 @@ by Jing Guo
 
 ## In class practice
 - [prj01](src/Project_1.ipynb)
-
+- [prj02](src/project2.ipynb)

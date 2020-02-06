@@ -9,6 +9,7 @@ by Jing Guo
 
 -Third hw3 is here:
 - [HW3(1)](HW3_1.ipynb)
+- [HW3(2)Proof](HW3_2Proof.pdf)
 - [HW3(2)](HW3_2.ipynb)
 - [HW3(3)](HW3_3.ipynb)
 - [HW3(3)Proof](HW3_3Proof.pdf)

@@ -11,6 +11,7 @@ by Jing Guo
 - [HW3(1)](HW3_1.ipynb)
 - [HW3(2)](HW3_2.ipynb)
 - [HW3(3)](HW3_3.ipynb)
+- [HW3(3)Proof](HW3_3 Proof.pdf)
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

@@ -13,6 +13,9 @@ by Jing Guo
 - [HW3(2)](HW3_2.ipynb)
 - [HW3(3)](HW3_3.ipynb)
 - [HW3(3)Proof](HW3_3Proof.pdf)
+
+-Forth hw4 is here:
+- [HW4(1)](HW4(1).pdf)
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

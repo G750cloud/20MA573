@@ -16,7 +16,7 @@ by Jing Guo
 
 -Forth hw4 is here:
 - [HW4(1)](HW4(1).pdf)
-- [HW4(2)]
+- [HW4(2)](HW4(2).ipynb)
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

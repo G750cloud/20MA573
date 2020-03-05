@@ -21,6 +21,11 @@ by Jing Guo
 -Fifth hw5 is here:
 - [HW5](HW5.ipynb)
 - [HW5PF](HW5Proof.pdf)
+
+-Sixth hw6 is here:
+- [HW6PF](HW6PROOF.pdf)
+
+
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

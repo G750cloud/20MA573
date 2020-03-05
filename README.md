@@ -25,7 +25,7 @@ by Jing Guo
 -Sixth hw6 is here:
 - [HW6PF](HW6PROOF.pdf)
 - [HW6Pseudo](Pseudo.pdf)
-- [HW6(1)](HW6(1))
+- [HW6(1)](HW6(1).ipynb)
 
 
 ## In class practice

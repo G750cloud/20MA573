@@ -26,7 +26,7 @@ by Jing Guo
 - [HW6PF](HW6PROOF.pdf)
 - [HW6Pseudo](Pseudo.pdf)
 - [HW6(1)](HW6(1).ipynb)
-- [HW6(2)](HW6PF3.ipynb)
+- [HW6PF3](HW6PF3.pdf)
 
 
 ## In class practice

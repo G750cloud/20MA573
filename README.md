@@ -28,8 +28,13 @@ by Jing Guo
 - [HW6(1)](HW6(1).ipynb)
 - [HW6PF3](HW6PF3.pdf)
 
+
 -seventh hw7 is here:
 -[HW7](HW7.ipynb)
+
+
+-eighth hw8 is here:
+-[HW8](HW8.ipynb)
 
 
 ## In class practice

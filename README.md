@@ -1,3 +1,5 @@
+Professor,the problem 1 and problem 3 in HW8 are listed seperately for the original version of P1 and P3 in HW8 may have some problems 
+
 # 20MA573 Computational finance
 by Jing Guo
 -First hw1 is here:

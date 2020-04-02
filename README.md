@@ -54,7 +54,7 @@ by Jing Guo
 
 -[HW8_PROOF_OF_P1](HW8Problem1.pdf)
 
--[HW8_PROOF_OF_P3](HW8Problem3.pdf)
+-[HW8_PROOF_OF_P2](HW8Problem2.pdf)
 
 
 

@@ -34,9 +34,14 @@ by Jing Guo
 
 
 -eighth hw8 is here:
--[HW8](HW8.ipynb)
+
+-[HW8code](HW8.ipynb)
+
 -[HW8](hw8.pdf)
+
 -[HW8_PROOF_OF_P3](HW8Problem3.pdf)
+
+-[HW8_PROOF_OF_P1](HW8Problem1.pdf)
 
 
 ## In class practice

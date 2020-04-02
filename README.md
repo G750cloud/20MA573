@@ -35,6 +35,7 @@ by Jing Guo
 
 -eighth hw8 is here:
 -[HW8](HW8.ipynb)
+-[HW8](hw8.pdf)
 
 
 ## In class practice

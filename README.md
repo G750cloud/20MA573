@@ -68,7 +68,7 @@ by Jing Guo
 
 -[HW10PF](HW10PF.pdf)
 
--[HW10PF AND DISPF](PF and DISPF.pdf)
+-[HW10PF2](PF and DISPF.pdf)
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

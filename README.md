@@ -65,6 +65,8 @@ by Jing Guo
 -tenth hw10 is here:
 
 -[HW10code](HW10.ipynb)
+
+-[HW10PF](HW10PF.pdf)
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

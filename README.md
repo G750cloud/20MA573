@@ -62,6 +62,9 @@ by Jing Guo
 
 -[HW9code](HW9.ipynb)
 
+-tenth hw10 is here:
+
+-[HW10code](HW10.ipynb)
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

@@ -3,7 +3,7 @@
 
 
 
-Professor,the correct solusion of problem 1 and problem 3 in HW8 are listed seperately for the original version of P1 and P3 in HW8 may have some problems 
+Professor,the correct solusion of problem 1 (5) in HW10 is listed seperately for the original version of P1(5) in HW10 may have some problems 
 
 
 

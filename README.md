@@ -74,6 +74,8 @@ by Jing Guo
 
 -[HW11PF](HW11PF.pdf)
 
+-[HW11](HW11.ipynb)
+
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

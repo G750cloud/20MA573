@@ -69,6 +69,11 @@ by Jing Guo
 -[HW10PF](HW10PF.pdf)
 
 -[HW10PF2](PF_and_DISPF.pdf)
+
+-eleventh hw11 is here:
+
+-[HW11PF](HW11PF.pdf)
+
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

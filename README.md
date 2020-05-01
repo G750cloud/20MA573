@@ -76,6 +76,10 @@ by Jing Guo
 
 -[HW11](HW11.ipynb)
 
+-Twelveth hw12 is here:
+
+-[HW12](HW12.pdf)
+
 ## In class practice
 - [prj01](src/Project_1.ipynb)
 - [prj02](src/project2.ipynb)

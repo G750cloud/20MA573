@@ -11,6 +11,11 @@ Professor,the correct solusion of problem 1 (5) in HW10 is listed seperately for
 
 # 20MA573 Computational finance
 by Jing Guo
+
+-Final project:
+-[Final](Final_Project_Value_American_put_option_by_LSA.ipynb)
+
+
 -First hw1 is here:
 - [HW1](HW1.ipynb)
 
